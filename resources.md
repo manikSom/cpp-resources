@@ -11,6 +11,12 @@
 2. [C++ Quiz](https://cppquiz.org/)
 3. [hacking cpp collection of resources](https://hackingcpp.com/cpp/educational_videos)
 
+### Youtube
+
+1. [The Cherno](https://www.youtube.com/@TheCherno)
+2. [Mike Shah](https://www.youtube.com/@MikeShah)
+3. [javidx9](https://www.youtube.com/@javidx9/videos)
+
 ### Experts in cpp and their websites
 
 1. [Herb Sutter](https://herbsutter.com/)
@@ -37,3 +43,4 @@
 17. [Non-conforming C++: the Secrets the Committee Is Hiding From You - Miro Knejp CppCon 2019](https://www.youtube.com/watch?v=IAdLwUXRUvg)
 18. [Branchless Programming in C++ - Fedor Pikus - CppCon 2021 ](https://youtu.be/g-WPhYREFjk)
 19. [105 STL Algorithms in Less Than an Hour- Jonathan Boccara CppCon 2018](https://www.youtube.com/watch?v=2olsGf6JIkU)
+20. [Peering Forward - C++’s Next Decade - Herb Sutter 2024](https://www.youtube.com/watch?v=FNi1-x4pojs)
