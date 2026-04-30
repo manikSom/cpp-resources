@@ -16,6 +16,7 @@
 1. [The Cherno](https://www.youtube.com/@TheCherno)
 2. [Mike Shah](https://www.youtube.com/@MikeShah)
 3. [javidx9](https://www.youtube.com/@javidx9/videos)
+4. [C++ Weekly With Jason Turner](https://www.youtube.com/@cppweekly)
 
 ### Experts in cpp and their websites
 
